@@ -1,8 +1,6 @@
 **/node_modules
 **/dist
-**/package-lock.json
 **/.env
-src/scraper/results.json
 
 # Logs
 logs
@@ -30,6 +28,3 @@ dist-ssr
 
 # Mongo
 **/mongo
-
-# Cypress Error videos
-src/frontend-pwa/cypress/videos
